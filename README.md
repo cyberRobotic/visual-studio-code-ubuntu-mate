@@ -1,4 +1,4 @@
-# visualstudio code
+# Visual Studio code
 This toturial shows you how to install Visual Studio Code on your Ubuntu Mate 32 bit version in vmWare.
 It is pretty easy. 
 
