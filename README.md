@@ -17,3 +17,8 @@ sudo dpkg -i pakackage_name.db
 ```
 
 Congratulation you have now sucssesfully installed Visual Studio Code on your Ubuntu Mate 32 bit version.
+
+To open visual studio code from the terminal you only need to type
+```
+code
+```
